@@ -1,4 +1,4 @@
-## Titanic Survival Prediction using PySpark
+## Titanic Survival Classification using PySpark
 
 ### Introduction
 This project focuses on predicting the survival of passengers on the Titanic using PySpark. The dataset used for this project is the famous Titanic dataset available on Kaggle. PySpark and the pyspark.ml library are used for data preprocessing, feature engineering, model building, and evaluation.
